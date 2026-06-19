@@ -31,8 +31,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasht213&layout=compact)
 
-![](https://streak-stats.demolab.com?user=Vikasht213)
-
 ## 🌐 Connect With Me
 
 [LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vikash-tiwari-frontenddev/))
