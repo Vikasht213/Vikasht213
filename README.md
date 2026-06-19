@@ -14,7 +14,7 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 ## 🚀 About Me
 
 - 💼 Senior Full-Stack Developer with 5+ years experience
-- 🔭 Currently working on Amazon One Stop Shop
+- 🔭 Currently working on Infosys Ltd
 - 🌱 Learning AI Engineering & System Design
 - ⚡ Strong in React, Node.js, AWS & Microservices
 - 📫 Reach me: tvikash964@gmail.com
