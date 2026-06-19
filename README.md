@@ -27,8 +27,6 @@ src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Vikasht213&show_icons=true)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasht213&layout=compact)
 
 ## 🌐 Connect With Me
