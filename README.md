@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Vikash Tiwari</h1>
 
-<!--
-**Vikasht213/Vikasht213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Senior Full Stack Engineer | React | TypeScript | Node.js | AWS
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+5+ years building scalable web applications and cloud-native solutions.
+Currently contributing to the Amazon One Stop Shop at Infosys.
+</p>
+<img align="right" alt="Coding" width="350"
+src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 💼 Senior Software Engineer with 5+ years experience
+- 🔭 Currently working on Amazon One Stop Shop
+- 🌱 Learning AI Engineering & System Design
+- ⚡ Strong in React, Node.js, AWS & Microservices
+- 📫 Reach me: tvikash964@gmail.com
+
+## 🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,aws,graphql,postgres,mysql,dynamodb,git,github,jenkins,vscode" />
+</p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Vikasht213&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vikasht213&layout=compact)
+
+![](https://streak-stats.demolab.com?user=Vikasht213)
+
+## 🌐 Connect With Me
+
+[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/vikash-tiwari-frontenddev/))
+
+[Portfolio]([YOUR_PORTFOLIO_URL](https://vikash-tiwari.vercel.app/))
+
+[Email](mailto:tvikash964@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=Vikasht213)
