@@ -4,8 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Engineer;React+%7C+Node.js+%7C+AWS;5%2B+Years+of+Experience;Building+Scalable+Cloud+Applications" />
 </p>
 <p align="center">
-5+ years building scalable web applications and cloud-native solutions.
-Currently contributing to the Amazon One Stop Shop at Infosys.
+Full Stack Engineer with 5+ years of experience designing and delivering scalable, high-performance web applications and cloud-native solutions. Currently contributing to Amazon One Stop Shop at Infosys, building enterprise-grade systems that serve global customers at scale.
 </p>
 <img align="right" alt="Coding" width="350"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
